@@ -8,7 +8,8 @@ public class LinkedList {
         Node temp = new Node(data);
         if (head == null){
             head = temp;
-        }else{
+        }
+        else{
             tail.next = temp;
         }
         tail = temp;

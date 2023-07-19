@@ -19,7 +19,7 @@ public class ArraySmall {
                 small = arr[i];
             }
         }
-        System.out.println("largest element is : "+small);
+        System.out.println("smallest element is : "+small);
     }
 
 }

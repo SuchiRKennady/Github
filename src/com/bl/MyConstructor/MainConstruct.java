@@ -6,7 +6,7 @@ public class MainConstruct {
 
         obj.myMethod();
         System.out.println("calling main method");
-// MyConstructor obj1 = new MyConstructor("Amol",25);
+// MyConstructor obj1 = new MyConstructor("Suchitra",23);
 // MyConstructor obj2 = new MyConstructor(20);
 // MyConstructor obj3 = new MyConstructor("Abc");
     }

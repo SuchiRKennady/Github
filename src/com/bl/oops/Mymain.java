@@ -4,8 +4,8 @@ public class Mymain {
     public static void main(String[] args){
         Animal tiger = new Animal(4);
         System.out.println(tiger.noOfLegs);
-        tiger.colour = "Yello";
-        System.out.println("tiger has yello color" + " "+tiger.colour);
+        tiger.colour = "Yellow";
+        System.out.println("tiger has yellow color" + " "+tiger.colour);
 
         tiger.walk();
 
